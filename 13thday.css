@@ -1,0 +1,42 @@
+.bgimag2{
+	background-image: url('https://wallpapercave.com/wp/wp5153473.jpg');
+	background-size: cover;
+	height: 170vh;
+	width: 100vw;
+}
+.mobilehead{
+	color: white;
+	font-family: 'Andika';
+	font-weight: bold;
+	font-size: 25px;
+	padding: 25px;
+}
+.layoutcard2{
+	background-color: white;
+	border-radius: 8px;
+	margin: 18px;
+	padding: 20px;
+}
+.brandsimg{
+	width: 120px;
+	height: 120px;
+}
+.brandshead{
+	color: #041836;
+	font-family: Andika;
+	font-weight: bold;
+	font-size: 25px; 
+}
+.brandspara{
+	color: darkgrey;
+	font-family: 'Andika';
+	font-size: 15px;
+}
+button{
+	background-color: orange;
+	height: 50px;
+	width: 100px;
+	border: solid;
+	border-radius: 15px;
+	border-width: 2px;
+}

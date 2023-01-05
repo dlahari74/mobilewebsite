@@ -1,0 +1,14 @@
+.bgimg{
+	background-image: url('https://i.pinimg.com/originals/20/6a/4d/206a4da8878281f3bf7a3885ea644d95.jpg');
+	background-size: cover;
+	height: 100vh;
+	width: 100vw;
+}
+.layoutcard{
+	background-color: white;
+	font-family: 'Andika';
+	height: 200px;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	padding: 20px;
+}
